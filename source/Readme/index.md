@@ -12,7 +12,7 @@ academia: true
 - **University of Southern California, Los Angeles, CA**  
   *M.S. in Spatial Data Science (STEM)*  
   GPA: 3.6/4.0  
-  Sep 2021 - May 2024  
+  Sep 2021 - Dec 2024  
 
 - **Tianjin University Renai College, Tianjin, China**  
   *B.S. in Software Engineering*  
