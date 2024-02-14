@@ -16,7 +16,7 @@ menu:
   # Work Experience: /Experience/
   Computer Science Projects: /Projects/
   Data Science Projects: /DSProjects/
-  Spcial Data Science: /SSCI/
+  Spatial Data Science: /SSCI/
   Extracurricular Activity: /ExtracurricularActivity
 # flink picture will load if avator link calls on error
 loading_bg:
