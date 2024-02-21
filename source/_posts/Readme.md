@@ -5,8 +5,8 @@ date: 2023-10-14 00:27:21
 tags:
 ---
 ## Hi, Welcome 👋
-- I am Finding a SDE/DA Internship in 2024 Summer
-- I am Finding a SDE/DA Fulltime job start at 2024 December
+<!-- - I am Finding a SDE/DA Internship in 2024 Summer
+- I am Finding a SDE/DA Fulltime job start at 2024 December -->
 
 👋 Welcome to my personal space! I’m **Zeyu Li**, a Spatial Data Science master’s student at the University of Southern California. As a devoted Software Engineer and Data Analyst with a penchant for Android, iOS, web development, and data analytics, I am constantly embracing challenges and new learnings in these evolving fields.
 
