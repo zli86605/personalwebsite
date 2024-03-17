@@ -12,7 +12,7 @@ since: 2023
 # #title 为页内跳转，单页模式
 # 可以选择外链或其他页面
 menu:
-  Readme: /Readme/
+  About: /About/
   # Work Experience: /Experience/
   Computer Science Projects: /Projects/
   Data Science Projects: /DSProjects/
