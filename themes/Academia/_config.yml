@@ -17,7 +17,7 @@ menu:
   Computer Science Projects: /Projects/
   Data Science Projects: /DSProjects/
   Spatial Data Science: /SSCI/
-  Extracurricular Activity: /ExtracurricularActivity
+  Volunteering & Involvement: /ExtracurricularActivity
 # flink picture will load if avator link calls on error
 loading_bg:
   flink: /img/cloud_ai.png
