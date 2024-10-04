@@ -69,8 +69,9 @@ tags:
 ## Let’s Connect! 🌐
 I am always open to connecting with fellow professionals. Here’s where you can find me:
 
+- [**Welcome to directly schedule a meeting with me 🎉** ](https://calendly.com/zli86605)
 - **Email:** [zli86605@usc.edu](mailto:zli86605@usc.edu) | [Catherine41313@gmail.com](Catherine41313@gmail.com) 
 - **LinkedIn:** [Catherine Zeyu Li](https://linkedin.com/in/catherinezy-li)
 - **GitHub:** [zli86605](https://github.com/zli86605)
-
+ 
 Thank you for stopping by!
